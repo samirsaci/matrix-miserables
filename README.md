@@ -15,12 +15,15 @@ In this [Medium Article](https://towardsdatascience.com/build-interactive-charts
 
 ## Code
 This repository code should be used in the first step of analysis to duplicate the example found and render it using Python Flask.
-1. Copy Github repository in your local folder
+1. Copy Github repository in your local folder and create a local python environment
 2. Download libraries listed in requirements.txt
 ```
   pip3 install -r requirements.txt
 ```
 3. Launch app.py
+```
+py app.py
+```
 
 ## Next Steps
 You can now replace miserables.json with your dataset or follow the article instructions to use a dataset of e-commerce sales of perfume and cosmetics products.
