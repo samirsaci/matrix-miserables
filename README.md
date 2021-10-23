@@ -27,6 +27,7 @@ You can now replace miserables.json with your dataset or follow the article inst
 
 ## About me 🤓
 Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio if you're interested in topics related to Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 \
-[https://samirsaci.com](https://samirsaci.com)
+Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
+Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
+
 
