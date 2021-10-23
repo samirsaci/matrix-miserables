@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>E-Commerce Sales Analysis by Cosmetics Brand</title>
+<link href="/static/css/styles.css" rel="stylesheet">
+<link rel="/static/css/bootstrap.min.css">
+
+<script src="/static/js/libs/d3.v2.min.js"></script>
+
+<body>
+  <header>
+
+  </header>
+
+  <!-- Title -->
+  <h1 class="title"></h1>
+
+  <!-- Colonne de cote -->
+  <aside style="margin-top:80px;">
+
+    <p>Order by 
+      <p>
+        <select id="order">
+          <option value="name">Characters Name</option>
+          <option value="group">Color</option>
+        </select>
+      </p>
+    </p>
+    <p>More information: <a href="https://observablehq.com/@bstaats/matrix-diagram"> observablehq</a>.</p>
+    <p id="group"></p>
+  </aside>
+
+  <script src="/static/js/matrix.js"></script>
+  <p class="attribution">Inspired by: <a href="https://bost.ocks.org/mike/miserables/">Mike Bostock</a>.</p>
+
+  <footer>
+  </footer>
+</body>
+
+</html>

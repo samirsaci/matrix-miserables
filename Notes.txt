@@ -1,0 +1,2 @@
+# Activate Local Environment
+.\venv\Scripts\activate
