@@ -2,7 +2,7 @@
 *Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js*
 
 ### Medium Article
-In this [Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
+In this [Medium Article](https://medium.com/towards-data-science/build-interactive-charts-using-flask-and-d3-js-70f715a76f93/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
 
 ![This is an image](https://miro.medium.com/max/3000/1*cKcNGXPH4OABg-lzGQMamA.png)
 
